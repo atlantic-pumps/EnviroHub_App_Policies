@@ -7,10 +7,10 @@ This repository contains the official policy documents for the **EnviroHub Insta
 - [Privacy Policy](./EnviroHub_Installer_Privacy_Policy.pdf)  
   Describes how we collect, use, and protect user data in compliance with UK GDPR and other applicable laws.
 
-- [Marketing Policy](./EnviroHub_Installer_Marketing_Policy.pdf)  
+- [Marketing Policy](./EnviroHub_Installer_Marketing_policy.pdf)  
   Outlines our approach to app promotion, user communications, and consent management.
 
-- [Support Policy](./EnviroHub_Installer_Support_Policy.pdf)  
+- [Support Policy](./EnviroHub_Installer_Support Policy.pdf)
   Details our support channels, response expectations, and service availability for the app.
 
 ## 📱 About the App
