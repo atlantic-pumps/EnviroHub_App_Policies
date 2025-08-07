@@ -10,7 +10,7 @@ This repository contains the official policy documents for the **EnviroHub Insta
 - [Marketing Policy](./EnviroHub_Installer_Marketing_policy.pdf)  
   Outlines our approach to app promotion, user communications, and consent management.
 
-- [Support Policy](./EnviroHub_Installer_Support_Policy.pdf) 
+- [Support Policy](./EnviroHub_Installer_Support_Policy.pdf)
   Details our support channels, response expectations, and service availability for the app.
 
 ## 📱 About the App
